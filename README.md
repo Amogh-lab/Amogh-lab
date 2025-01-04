@@ -7,10 +7,9 @@
 
 I'm a passionate student at RVCE, exploring the realms of software development and the Internet of Things (IoT) & Web of Things (WoT). I enjoy building projects that bridge the gap between hardware and software, and I'm always eager to learn new technologies.
 
-- 🌱 **Currently Learning:** Advanced concepts in React.js, TypeScript, and IoT/WoT integrations.
+- 🌱 **Currently Learning:** Advanced concepts in React.js, TypeScript,Node js, Mongo DB and IoT/WoT integrations.
 - 💬 **Ask Me About:** IoT/WoT projects, React development, and integrating hardware with web technologies.
 - 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/amogh-ap-750832293) | [Instagram](https://www.instagram.com/justttamogh)
-- ⚡ **Fun Fact:** I have a knack for turning innovative ideas into functional prototypes.
 
 ## Projects
 
