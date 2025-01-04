@@ -34,10 +34,6 @@ A simple project made with React.js and Supabase.
 
 - **Technologies:** React.js, Supabase, JavaScript
 
-## GitHub Stats
-
-![Amogh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amogh-lab&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/amogh-ap-750832293)
