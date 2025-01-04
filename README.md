@@ -16,7 +16,7 @@ I'm a passionate student at RVCE, exploring the realms of software development a
 
 Here are some of the projects I've been working on:
 
-### [CoE Projects](https://github.com/Amogh-lab/CISCO](https://github.com/Amogh-lab/CoE-Projects)
+### [CoE Projects](https://github.com/Amogh-lab/CoE-Projects)
 
 Implementation of projects utilizing the Web of Things (WoT) paradigm with Raspberry Pi and ESP32.
 
