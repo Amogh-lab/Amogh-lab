@@ -4,7 +4,7 @@
 **Studying at RV College of Engineering (Class of 2027)**  
 **Location:** Bangalore, India
 #<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300" padding="0" />
 </div>
 
 ## About Me
