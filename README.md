@@ -6,7 +6,8 @@
   <img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="150" alt="made with swag markdown badge">
 </a> 
 
-# Hello, I'm Amogh AP! <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
+# Hello, I'm Amogh AP!
+</br> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
 
 **Studying at RV College of Engineering (Class of 2027)**  
  **Location:** Bangalore, India
