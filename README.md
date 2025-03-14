@@ -2,14 +2,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 
-<a href="https://github.com/Amogh-lab">
+<a href="https://github.com/Amogh-lab"></br>
   <img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="150" alt="made with swag markdown badge">
 </a> 
 
 # Hello, I'm Amogh AP! <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
 
 **Studying at RV College of Engineering (Class of 2027)**  
-📍 **Location:** Bangalore, India
+ **Location:** Bangalore, India
 
 </div>
 
