@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a passionate student at **RVCE**, exploring the realms of **Software Development**, **DevOps**, and the **Internet of Things (IoT) & Web of Things (WoT)**. I enjoy **bridging the gap** between **hardware & software** while learning new technologies.
 
@@ -30,15 +30,15 @@ I'm a passionate student at **RVCE**, exploring the realms of **Software Develop
 
 ---
 
-## 🚀 DevOps & Cloud Skills
+## DevOps & Cloud Skills
 🌐 **Cloud & Containers**  
-- Docker 🐳 | Kubernetes ☸️ | MinIO ☁️ | OpenMediaVault (OMV)  
+- Docker  | Kubernetes  | MinIO 
 
 ⚙️ **CI/CD & Monitoring**  
-- Jenkins ⚡ | GitHub Actions | Prometheus 📊 | Grafana 📈  
+- Jenkins  | GitHub Actions | Prometheus  | Grafana 
 
 🔧 **Infrastructure & Automation**  
-- Terraform 🏗️ | Ansible 🔥 | Nginx | Apache  
+-  Nginx | Apache  
 
 ---
 
@@ -46,25 +46,25 @@ I'm a passionate student at **RVCE**, exploring the realms of **Software Develop
 
 Here are some of the projects I’ve been working on:
 
-### [🌍 CoE Projects](https://github.com/Amogh-lab/CoE-Projects)  
+### [ CoE Projects](https://github.com/Amogh-lab/CoE-Projects)  
 🔹 **IoT & Web of Things (WoT)** projects using **Raspberry Pi** and **ESP32**  
 **Tech Stack:** C++, IoT, WoT, Raspberry Pi, ESP32  
 
-### [⚛️ React Projects](https://github.com/Amogh-lab/React-project)  
+### [ React Projects](https://github.com/Amogh-lab/React-project)  
 🔹 Various projects built using **React.js & TypeScript**  
 **Tech Stack:** React.js, TypeScript, JavaScript  
 
-### [🖥️ React-Supabase](https://github.com/Amogh-lab/React-Supabase)  
+### [ React-Supabase](https://github.com/Amogh-lab/React-Supabase)  
 🔹 A simple project using **React.js** and **Supabase**  
 **Tech Stack:** React.js, Supabase, JavaScript  
 
-### [🚀 DevOps Setup for Jenkins](https://github.com/Amogh-lab/Jenkins-Docker)  
+### [ DevOps Setup for Jenkins](https://github.com/Amogh-lab/Jenkins-Docker)  
 🔹 Running **Jenkins** in **Docker**, setting up CI/CD pipelines  
 **Tech Stack:** Docker, Jenkins, GitHub Actions  
 
 ---
 
-## 📡 Connect with Me  
+##  Connect with Me  
 
 [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">](https://www.linkedin.com/in/amogh-ap-750832293)  
 [<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">](https://www.instagram.com/justttamogh)
