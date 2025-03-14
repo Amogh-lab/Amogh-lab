@@ -58,7 +58,7 @@ Here are some of the projects I’ve been working on:
 🔹 A simple project using **React.js** and **Supabase**  
 **Tech Stack:** React.js, Supabase, JavaScript  
 
-### [ DevOps Setup for Jenkins](https://github.com/Amogh-lab/Jenkins-Docker)  
+### [ DevOps Setup for Jenkins](https://github.com/Amogh-lab/Documentaries)  
 🔹 Running **Jenkins** in **Docker**, setting up CI/CD pipelines  
 **Tech Stack:** Docker, Jenkins, GitHub Actions  
 
