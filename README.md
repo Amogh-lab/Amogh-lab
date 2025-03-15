@@ -27,10 +27,10 @@ I'm a passionate student at **RVCE**, exploring the realms of **Software Develop
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amogh-lab&show_icons=true&locale=en&layout=compact&theme=dark" alt="Amogh" />
 </p>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br></br>
 
 ---
-</br></br>
+</br>
 ## DevOps & Cloud Skills
 🌐 **Cloud & Containers**  
 - Docker  | Kubernetes  | MinIO 
