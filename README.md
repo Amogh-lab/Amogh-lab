@@ -30,7 +30,7 @@ I'm a passionate student at **RVCE**, exploring the realms of **Software Develop
 <br><br><br><br><br><br>
 
 ---
-
+</br>
 ## DevOps & Cloud Skills
 🌐 **Cloud & Containers**  
 - Docker  | Kubernetes  | MinIO 
