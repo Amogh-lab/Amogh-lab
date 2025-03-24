@@ -12,6 +12,7 @@
  **Location:** Bangalore, India
 
 </div>
+
 ---
 
 ## About Me
