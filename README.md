@@ -46,9 +46,9 @@ I'm a passionate student at **RVCE**, exploring the realms of **Software Develop
 
 Here are some of the projects I’ve been working on:
 
-### [ CoE Projects](https://github.com/Amogh-lab/CoE-Projects)  
-🔹 **IoT & Web of Things (WoT)** projects using **Raspberry Pi** and **ESP32**  
-**Tech Stack:** C++, IoT, WoT, Raspberry Pi, ESP32  
+### [ Fitness Tracker](https://github.com/Amogh-lab/Fitness-tracker)  
+🔹 **Full stack web App** 
+**Tech Stack:**React, Node.js, Python, and Docker, postgreSQL, Ollama
 
 ### [ React Projects](https://github.com/Amogh-lab/React-project)  
 🔹 Various projects built using **React.js & TypeScript**  
