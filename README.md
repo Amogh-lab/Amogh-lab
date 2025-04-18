@@ -17,10 +17,23 @@
 
 ## About Me
 
-I'm a passionate student at **RVCE**, exploring the realms of **Software Development**, **DevOps**, and the **Internet of Things (IoT) & Web of Things (WoT)**. I enjoy **bridging the gap** between **hardware & software** while learning new technologies.
+### Hi there! I'm a passionate student at **RVCE**, diving deep into **Software Development**, **DevOps**, and the **Internet of Things (IoT) & Web of Things (WoT)**.
 
-- 🚀 **Currently Learning:** React.js, TypeScript, Node.js, MongoDB, IoT/WoT integrations, **Docker, Kubernetes, Grafana, Prometheus, Jenkins**
-- 💬 **Ask Me About:** IoT/WoT projects, React development, Node and Express JS, DevOps, and integrating hardware with web technologies.
+I love exploring how hardware and software can work together in innovative ways, and I'm always excited to learn and build with modern technologies.
+
+- 🚀 **Currently Exploring:**  
+  React.js, Node.js, MongoDB, Docker, Kubernetes, Jenkins, Grafana, Prometheus, and IoT/WoT integrations
+
+- 💬 **Ask Me About:**  
+  Full Stack Web Development, IoT/WoT projects, React + Express, DevOps pipelines, and connecting hardware to the web
+
+- 🛠️ **Tech Stack:**  
+  JavaScript, React.js, Node.js, Express, Python, Flask, MongoDB, Supabase, Docker, Git, Jenkins, Raspberry Pi
+
+---
+
+Feel free to connect or check out my work!
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amogh-lab&show_icons=true&locale=en&layout=compact&theme=dark" alt="Amogh" />
