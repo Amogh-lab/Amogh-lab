@@ -17,7 +17,7 @@
 
 ## About Me
 
-### Hi there! I'm a passionate student at **RVCE**, diving deep into **Software Development**, **DevOps**, and the **Internet of Things (IoT) & Web of Things (WoT)**.
+ Hi there! I'm a passionate student at **RVCE**, diving deep into **Software Development**, **DevOps**, and the **Internet of Things (IoT) & Web of Things (WoT)**.
 
 I love exploring how hardware and software can work together in innovative ways, and I'm always excited to learn and build with modern technologies.
 
