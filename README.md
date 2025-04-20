@@ -60,7 +60,7 @@ Feel free to connect or check out my work!
 Here are some of the projects I’ve been working on:
 
 ### [ Fitness Tracker](https://github.com/Amogh-lab/Fitness-tracker)  
-🔹 **Full stack web App** A simple fitness tracking website with AI chat bot
+🔹 **Full stack web App** A simple fitness tracking website with AI chat bot using **ollama**
 **Tech Stack:** React, Node.js, Python, and Docker, postgreSQL, Ollama
 
 ### [ React Projects](https://github.com/Amogh-lab/React-project)  
