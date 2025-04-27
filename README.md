@@ -15,20 +15,40 @@
 
 ---
 
-## About Me
+#  About Me
 
- Hi there! I'm a passionate student at **RVCE**, diving deep into **Software Development**, **DevOps**, and the **Internet of Things (IoT) & Web of Things (WoT)**.
+Hi there! I'm **Amogh A P**, a passionate student at **RV College of Engineering (RVCE)**, deeply focused on **Full Stack Development**, **Software Engineering**, **Large Language Models (LLMs)**, and **DevOps**.
 
-I love exploring how hardware and software can work together in innovative ways, and I'm always excited to learn and build with modern technologies.
+I love building scalable web applications, understanding modern AI technologies like LLMs, and creating efficient backend systems. I'm always excited to innovate, automate, and learn new tools and frameworks that make development smarter and faster.
 
-- 🚀 **Currently Exploring:**  
-  React.js, Node.js, MongoDB, Docker, Kubernetes, Jenkins, Grafana, Prometheus, and IoT/WoT integrations
+##  Currently Exploring
+- React.js, Node.js, Express.js, MongoDB
+- Docker, Kubernetes, Jenkins
+- Large Language Models (LLMs) and AI fundamentals
+- Cloud-native app development
 
-- 💬 **Ask Me About:**  
-  Full Stack Web Development, IoT/WoT projects, React + Express, DevOps pipelines, and connecting hardware to the web
+##  Learning Focus
+- Full Stack Web Development (MERN Stack)
+- Understanding and exploring LLMs
+- MLOps and DevOps automation
 
-- 🛠️ **Tech Stack:**  
-  JavaScript, React.js, Node.js, Express, Python, Flask, MongoDB, Supabase, Docker, Git, Jenkins, Raspberry Pi
+##  Ask Me About
+- Frontend and Backend Web Development
+- React + Express Applications
+- Cloud deployments with Docker and Kubernetes
+- Building efficient CI/CD pipelines
+
+##  Tech Stack
+- **Languages & Frameworks**: JavaScript, React.js, Node.js, Express.js, Python, Flask
+- **Databases**: MongoDB, Supabase
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Git
+- **AI/ML Tools**: TensorFlow, LangChain (basics)
+
+## ⚡ Fun Facts
+- I enjoy exploring how AI can be combined with real-world applications.
+- I'm passionate about designing scalable backend architectures.
+- I believe in continuous learning and love building projects that solve real problems.
+
 
 ---
 
@@ -44,13 +64,13 @@ Feel free to connect or check out my work!
 ---
 
 ## DevOps & Cloud Skills
-🌐 **Cloud & Containers**  
+ **Cloud & Containers**  
 - Docker  | Kubernetes  | MinIO 
 
-⚙️ **CI/CD & Monitoring**  
+ **CI/CD & Monitoring**  
 - Jenkins  | GitHub Actions | Prometheus  | Grafana 
 
-🔧 **Infrastructure & Automation**  
+ **Infrastructure & Automation**  
 -  Nginx | Apache  
 
 ---
