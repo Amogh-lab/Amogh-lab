@@ -44,7 +44,7 @@ I love building scalable web applications, understanding modern AI technologies 
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Git
 - **AI/ML Tools**: TensorFlow, LangChain (basics)
 
-## ⚡ Fun Facts :
+## Fun Facts :
 - I enjoy exploring how AI can be combined with real-world applications.
 - I'm passionate about designing scalable backend architectures.
 - I believe in continuous learning and love building projects that solve real problems.
