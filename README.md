@@ -75,28 +75,6 @@ Feel free to connect or check out my work!
 
 ---
 
-##  My Projects  
-
-Here are some of the projects I’ve been working on:
-
-### [ Fitness Tracker](https://github.com/Amogh-lab/Fitness-tracker)  
-🔹 **Full stack web App** A simple fitness tracking website with AI chat bot using **ollama**<br/>
-**Tech Stack:** React, Node.js, Python, and Docker, postgreSQL, Ollama
-
-### [ React Projects](https://github.com/Amogh-lab/React-project)  
-🔹 Various projects built using **React.js & TypeScript**  
-**Tech Stack:** React.js, TypeScript, JavaScript  
-
-### [ React-Supabase](https://github.com/Amogh-lab/React-Supabase)  
-🔹 A simple project using **React.js** and **Supabase**  
-**Tech Stack:** React.js, Supabase, JavaScript  
-
-### [ DevOps Setup for Jenkins](https://github.com/Amogh-lab/Documentaries)  
-🔹 Running **Jenkins** in **Docker**, setting up CI/CD pipelines  
-**Tech Stack:** Docker, Jenkins, GitHub Actions  
-
----
-
 ##  Connect with Me  
 
 
