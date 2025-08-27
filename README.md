@@ -23,14 +23,14 @@ I love building scalable web applications, understanding modern AI technologies 
 
 ##  Currently Exploring :
 - React.js, Node.js, Express.js, MongoDB
-- Moving into Cloudcomputing (specifically into AWS)
+- AWS, Cloud-native architectures
 - Docker, Kubernetes, Jenkins
 - Large Language Models (LLMs) and AI fundamentals
 - Cloud-native app development
 
 ##  Learning Focus :
 - Full Stack Web Development
-- Cloud Computing
+- Cloud Deployments & Serverless systems
 - Understanding and exploring LLMs
 - MLOps and DevOps automation
 
