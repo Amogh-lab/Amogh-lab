@@ -22,7 +22,7 @@ Hi there! I'm **Amogh A P**, a passionate student at **RV College of Engineering
 I love building scalable web applications, understanding modern AI technologies like LLMs, and creating efficient backend systems. I'm always excited to innovate, automate, and learn new tools and frameworks that make development smarter and faster.
 
 ##  Currently Exploring :
-- React.js, Node.js, Express.js, MongoDB
+- WorkFlow(CI/CD)
 - AWS, Cloud-native architectures
 - Docker, Kubernetes, Jenkins
 - Large Language Models (LLMs) and AI fundamentals
