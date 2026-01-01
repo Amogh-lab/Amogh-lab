@@ -1,86 +1,84 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
 
-<a href="https://github.com/Amogh-lab"></br>
-  <img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="150" alt="made with swag markdown badge">
-</a> 
+# Hi, I'm Amogh A P 👋
 
-# Hello, I'm Amogh AP! </br> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
-
-**Studying at RV College of Engineering (Class of 2027)**  
- **Location:** Bangalore, India
+**AI & ML Engineering Student @ RV College of Engineering (2027)**  
+**Focus:** Cloud, DevOps, Distributed Systems, Applied AI  
+📍 Bangalore, India
 
 </div>
 
 ---
 
-#  About Me
+## About Me
 
-Hi there! I'm **Amogh A P**, a passionate student at **RV College of Engineering (RVCE)**, deeply focused on **Full Stack Development**, **Software Engineering**, **Large Language Models (LLMs)**, and **DevOps**.
+I’m a **systems-oriented engineer** who enjoys working close to infrastructure.
 
-I love building scalable web applications, understanding modern AI technologies like LLMs, and creating efficient backend systems. I'm always excited to innovate, automate, and learn new tools and frameworks that make development smarter and faster.
+My interests sit at the intersection of:
+- **Cloud-native systems**
+- **DevOps & observability**
+- **Applied AI / ML pipelines**
+- **Backend & distributed architectures**
 
-##  Currently Exploring :
-- WorkFlow(CI/CD)
-- AWS, Cloud-native architectures
-- Docker, Kubernetes, Jenkins
-- Large Language Models (LLMs) and AI fundamentals
-- Cloud-native app development
+I don’t chase tools blindly. I care about **how systems behave under load**, **how failures propagate**, and **how automation reduces human error**.
 
-##  Learning Focus :
-- Full Stack Web Development
-- Cloud Deployments & Serverless systems
-- Understanding and exploring LLMs
-- MLOps and DevOps automation
-
-##  Ask Me About :
-- Frontend and Backend Web Development
-- React + Express Applications
-- Cloud deployments with Docker and Kubernetes
-- Building efficient CI/CD pipelines
-
-##  Tech Stack :
-- **Languages & Frameworks**: JavaScript, React.js, Node.js, Express.js, Python, Flask
-- **Databases**: MongoDB, Supabase
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, Git
-- **AI/ML Tools**: TensorFlow, LangChain (basics)
-
-## Fun Facts :
-- I enjoy exploring how AI can be combined with real-world applications.
-- I'm passionate about designing scalable backend architectures.
-- I believe in continuous learning and love building projects that solve real problems.
-
+Currently building, breaking, and rebuilding things to understand them properly.
 
 ---
 
-Feel free to connect or check out my work!
+## Current Focus (2025–2026)
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amogh-lab&show_icons=true&locale=en&layout=compact&theme=dark" alt="Amogh" />
-</p>
-
-<br><br><br><br><br><br></br>
-
----
-
-## DevOps & Cloud Skills
- **Cloud & Containers**  
-- Docker  | Kubernetes  | MinIO 
-
- **CI/CD & Monitoring**  
-- Jenkins  | GitHub Actions | Prometheus  | Grafana 
-
- **Infrastructure & Automation**  
--  Nginx | Apache  
+- Cloud-native application design (AWS, containers, orchestration)
+- Kubernetes internals & production deployments
+- CI/CD pipelines with real monitoring and rollback strategies
+- Infrastructure observability (metrics, logs, tracing)
+- Applied ML systems (model → deployment → monitoring)
 
 ---
 
-##  Connect with Me  
+## Technical Stack
 
+**Languages**
+- JavaScript, Python
 
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">](https://www.linkedin.com/in/amogh-ap-750832293)[<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">](https://www.instagram.com/justttamogh)
+**Backend & Web**
+- Node.js, Express.js, Flask, React.js
+
+**Databases**
+- MongoDB, Supabase (Postgres)
+
+**Cloud & DevOps**
+- Docker, Kubernetes  
+- Jenkins, GitHub Actions  
+- Prometheus, Grafana  
+- Nginx, Apache
+
+**AI / ML**
+- TensorFlow  
+- LangChain (fundamentals)  
+
 ---
 
-<img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572">
+## What I Value as an Engineer
+
+- Systems that fail predictably, not mysteriously
+- Automation over manual processes
+- Debuggability over blind complexity
+- Learning fundamentals instead of chasing hype
+
+---
+
+## Connect
+
+<a href="https://www.linkedin.com/in/amogh-ap-750832293">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45"/>
+</a>
+<a href="https://www.instagram.com/justttamogh">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45"/>
+</a>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
