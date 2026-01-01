@@ -1,72 +1,58 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-
-# Hi, I'm Amogh A P 👋
-
-**AI & ML Engineering Student @ RV College of Engineering (2027)**  
-**Focus:** Cloud, DevOps, Distributed Systems, Applied AI  
-📍 Bangalore, India
-
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%"/>
+<img src="https://forthebadge.com/images/badges/built-with-swag.svg"/>
 </div>
 
----
+# Amogh A P
 
-## About Me
+AI & ML Engineering Student @ RV College of Engineering (2027)  
+Bangalore, India
 
-I’m a **systems-oriented engineer** who enjoys working close to infrastructure.
-
-My interests sit at the intersection of:
-- **Cloud-native systems**
-- **DevOps & observability**
-- **Applied AI / ML pipelines**
-- **Backend & distributed architectures**
-
-I don’t chase tools blindly. I care about **how systems behave under load**, **how failures propagate**, and **how automation reduces human error**.
-
-Currently building, breaking, and rebuilding things to understand them properly.
+Focused on cloud-native systems, DevOps, and applied backend engineering.
 
 ---
 
-## Current Focus (2025–2026)
-
-- Cloud-native application design (AWS, containers, orchestration)
-- Kubernetes internals & production deployments
-- CI/CD pipelines with real monitoring and rollback strategies
-- Infrastructure observability (metrics, logs, tracing)
-- Applied ML systems (model → deployment → monitoring)
-
----
-
-## Technical Stack
-
-**Languages**
-- JavaScript, Python
-
-**Backend & Web**
-- Node.js, Express.js, Flask, React.js
-
-**Databases**
-- MongoDB, Supabase (Postgres)
-
-**Cloud & DevOps**
-- Docker, Kubernetes  
-- Jenkins, GitHub Actions  
-- Prometheus, Grafana  
-- Nginx, Apache
-
-**AI / ML**
-- TensorFlow  
-- LangChain (fundamentals)  
+## Focus
+- Cloud & containerized applications
+- Kubernetes and infrastructure fundamentals
+- CI/CD and observability
+- Backend systems and APIs
+- Deploying ML systems in production
 
 ---
 
-## What I Value as an Engineer
+## Tech Stack
 
-- Systems that fail predictably, not mysteriously
-- Automation over manual processes
-- Debuggability over blind complexity
-- Learning fundamentals instead of chasing hype
+**Languages**  
+Javascript · Python · C++ · C · SQL · TypeScript
+
+**Frontend**  
+React
+
+**Backend & APIs**  
+Node.js · Express · Flask · REST APIs · FastAPI
+
+**Cloud & DevOps**  
+Docker · Kubernetes · AWS (S3, ECR, EC2, EKS) · Nginx  
+Jenkins · GitHub Actions · Apache · Helm · Git
+
+**Systems**  
+Linux · Raspberry Pi
+
+**Databases**  
+MongoDB · PostgreSQL · MySQL · MariaDB · Supabase
+
+**Monitoring**  
+Prometheus · Grafana
+
+---
+
+## Engineering Principles
+- Automation over manual work
+- Observability before optimization
+- Simplicity over cleverness
+- Systems that fail predictably
 
 ---
 
