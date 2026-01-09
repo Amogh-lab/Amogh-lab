@@ -58,7 +58,7 @@ Prometheus · Grafana
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/amogh-ap-750832293">
+<a href="https://www.linkedin.com/in/amogh-a-p-750832293/">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45"/>
 </a>
 <a href="https://www.instagram.com/justttamogh">
