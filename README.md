@@ -55,7 +55,7 @@ Prometheus · Grafana
 - Systems that fail predictably
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh-lab\&layout=donut&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amogh-lab\&layout=donut&langs_count=10&theme=material-palenight)
 
 
 ## Connect
